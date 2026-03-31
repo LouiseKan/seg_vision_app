@@ -1,0 +1,7 @@
+background
+sidewalk
+crosswalk
+road
+person
+obstacle
+vegetation
